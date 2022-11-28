@@ -1,1 +1,1 @@
-# mode_structure
+# model_structure
